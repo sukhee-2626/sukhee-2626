@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.png" alt="Sukhee Sakthivel Banner" width="100%">
+  <img src="profile_banner.png" alt="Sukhee Sakthivel Banner" width="800">
 </p>
 
 <p align="center">
