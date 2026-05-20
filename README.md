@@ -25,6 +25,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Exploring%20Generative%20AI%20%26%20Automation-00c9a7?style=flat-square&logo=openai&logoColor=white" alt="Current Status">
+</p>
+
 ---
 
 ## 👨‍💻 About Me
