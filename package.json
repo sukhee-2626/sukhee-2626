@@ -1,0 +1,17 @@
+{
+  "name": "sukhee-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sukhee Sakthivel G M · Developer Portfolio (live page + README with recorded animation)",
+  "type": "module",
+  "scripts": {
+    "start": "serve . -l 3000",
+    "setup": "playwright install --with-deps chromium",
+    "record": "node scripts/record.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.0",
+    "serve": "^14.2.4"
+  },
+  "engines": { "node": ">=18" }
+}
