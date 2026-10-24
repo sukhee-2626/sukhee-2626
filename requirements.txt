@@ -1,0 +1,1 @@
+# scripts/build_svg.py uses only the Python standard library (3.8+): nothing to install.

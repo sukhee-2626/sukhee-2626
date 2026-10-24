@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 882 305" width="882" height="305" role="img" aria-label="education"><defs><radialGradient id="hl"><stop offset="0" stop-color="#00c9a7" stop-opacity=".20"/><stop offset="1" stop-color="#00c9a7" stop-opacity="0"/></radialGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00c9a7"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs><g transform="translate(1,1)">
+<clipPath id="keducation0"><rect width="430" height="152" rx="18"/></clipPath>
+<rect width="430" height="152" rx="18" fill="#0e1526" stroke="#ffffff1a"/>
+<g clip-path="url(#keducation0)"><circle r="130" fill="url(#hl)"><animate attributeName="cx" values="-40;470;-40" dur="9s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="cy" values="30;129;30" dur="9s" begin="0.0s" repeatCount="indefinite"/></circle></g>
+<rect width="430" height="152" rx="18" fill="none" stroke="url(#bd)" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".15;.7;.15" dur="6s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="22" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf7">B.Sc. Computer Science</text>
+<text x="22" y="69" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">Sri Krishna Arts and Science College (SKASC).</text>
+<text x="22" y="90" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">1st year, pursuing.</text>
+<rect x="22" y="104" width="100" height="24" rx="12" fill="#00c9a7" fill-opacity=".14"/><text x="72" y="120" text-anchor="middle" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#00c9a7">2025 – 2028</text>
+</g><g transform="translate(451,1)">
+<clipPath id="keducation1"><rect width="430" height="152" rx="18"/></clipPath>
+<rect width="430" height="152" rx="18" fill="#0e1526" stroke="#ffffff1a"/>
+<g clip-path="url(#keducation1)"><circle r="130" fill="url(#hl)"><animate attributeName="cx" values="-40;470;-40" dur="9s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="cy" values="30;129;30" dur="9s" begin="0.7s" repeatCount="indefinite"/></circle></g>
+<rect width="430" height="152" rx="18" fill="none" stroke="url(#bd)" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".15;.7;.15" dur="6s" begin="0.7s" repeatCount="indefinite"/></rect>
+<text x="22" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf7">12th · Commerce + Computer Science</text>
+<text x="22" y="69" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">Higher secondary education.</text>
+<rect x="22" y="83" width="58" height="24" rx="12" fill="#00c9a7" fill-opacity=".14"/><text x="51" y="99" text-anchor="middle" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#00c9a7">71.6%</text>
+</g><g transform="translate(1,173)">
+<clipPath id="keducation2"><rect width="430" height="131" rx="18"/></clipPath>
+<rect width="430" height="131" rx="18" fill="#0e1526" stroke="#ffffff1a"/>
+<g clip-path="url(#keducation2)"><circle r="130" fill="url(#hl)"><animate attributeName="cx" values="-40;470;-40" dur="9s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="cy" values="26;111;26" dur="9s" begin="1.4s" repeatCount="indefinite"/></circle></g>
+<rect width="430" height="131" rx="18" fill="none" stroke="url(#bd)" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".15;.7;.15" dur="6s" begin="1.4s" repeatCount="indefinite"/></rect>
+<text x="22" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf7">10th</text>
+<text x="22" y="69" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">Secondary education.</text>
+<rect x="22" y="83" width="45" height="24" rx="12" fill="#00c9a7" fill-opacity=".14"/><text x="44" y="99" text-anchor="middle" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#00c9a7">62%</text>
+</g></svg>

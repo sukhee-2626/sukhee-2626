@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 64" width="760" height="64" role="img" aria-label="Top 10 Projects">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#00c9a7"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#00c9a7"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1 0" dur="5s" repeatCount="indefinite"/></linearGradient></defs>
+<text x="2" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="url(#g)">Top 10 Projects</text>
+<rect x="2" y="52" width="120" height="3" rx="1.5" fill="url(#g)"><animate attributeName="width" values="40;260;40" dur="4s" repeatCount="indefinite"/></rect>
+</svg>

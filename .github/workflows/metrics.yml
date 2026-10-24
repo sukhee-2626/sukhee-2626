@@ -1,0 +1,86 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"        # daily
+  workflow_dispatch:           # run manually from the Actions tab
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # 📅 Isometric commit calendar
+      - name: Isometric commit calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sukhee-2626
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: commit
+
+      # 🌇 GitHub Skyline: 3D rotating commit calendar (large file, so kept light)
+      - name: GitHub Skyline
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sukhee-2626
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_frames: 40
+          plugin_skyline_quality: 0.5
+          output_action: commit
+
+      # 📊 Recent activity charts (coding habits plugin, charts only)
+      - name: Recent activity charts
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sukhee-2626
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          config_timezone: Asia/Kolkata
+          output_action: commit
+
+      # 💡 Mildly interesting facts (coding habits plugin, facts only)
+      - name: Mildly interesting facts
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sukhee-2626
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Asia/Kolkata
+          output_action: commit
+
+      # 🏅 Repository contributors (for your flagship repo)
+      - name: Repository contributors
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.contributors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sukhee-2626
+          repo: plot-docs
+          template: repository
+          base: ""
+          plugin_contributors: yes
+          plugin_contributors_head: main
+          plugin_contributors_contributions: yes
+          plugin_contributors_ignored: github-actions[bot], dependabot[bot]
+          output_action: commit

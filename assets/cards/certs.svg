@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 882 498" width="882" height="498" role="img" aria-label="certs"><defs><radialGradient id="hl"><stop offset="0" stop-color="#00c9a7" stop-opacity=".20"/><stop offset="1" stop-color="#00c9a7" stop-opacity="0"/></radialGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00c9a7"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs><g transform="translate(1,1)">
+<clipPath id="kcerts0"><rect width="430" height="194" rx="18"/></clipPath>
+<rect width="430" height="194" rx="18" fill="#0e1526" stroke="#ffffff1a"/>
+<g clip-path="url(#kcerts0)"><circle r="130" fill="url(#hl)"><animate attributeName="cx" values="-40;470;-40" dur="9s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="cy" values="39;165;39" dur="9s" begin="0.0s" repeatCount="indefinite"/></circle></g>
+<rect width="430" height="194" rx="18" fill="none" stroke="url(#bd)" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".15;.7;.15" dur="6s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="22" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf7">Anthropic</text>
+<text x="22" y="69" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">AI Fluency Framework &amp; Foundations</text>
+<rect x="22" y="83" width="79" height="24" rx="12" fill="#00c9a7" fill-opacity=".14"/><text x="62" y="99" text-anchor="middle" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#00c9a7">Jun 2026</text>
+</g><g transform="translate(451,1)">
+<clipPath id="kcerts1"><rect width="430" height="194" rx="18"/></clipPath>
+<rect width="430" height="194" rx="18" fill="#0e1526" stroke="#ffffff1a"/>
+<g clip-path="url(#kcerts1)"><circle r="130" fill="url(#hl)"><animate attributeName="cx" values="-40;470;-40" dur="9s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="cy" values="39;165;39" dur="9s" begin="0.7s" repeatCount="indefinite"/></circle></g>
+<rect width="430" height="194" rx="18" fill="none" stroke="url(#bd)" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".15;.7;.15" dur="6s" begin="0.7s" repeatCount="indefinite"/></rect>
+<text x="22" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf7">Google</text>
+<text x="22" y="69" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">Gen AI Apps with Gemini &amp; Streamlit · Google</text>
+<text x="22" y="90" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">Cloud Network, Data &amp; Compute · Vertex AI</text>
+<text x="22" y="111" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">Prompt Design · Generative AI · Speech &amp;</text>
+<text x="22" y="132" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">Language APIs</text>
+<rect x="22" y="146" width="79" height="24" rx="12" fill="#00c9a7" fill-opacity=".14"/><text x="62" y="162" text-anchor="middle" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#00c9a7">Oct 2025</text>
+</g><g transform="translate(1,215)">
+<clipPath id="kcerts2"><rect width="430" height="131" rx="18"/></clipPath>
+<rect width="430" height="131" rx="18" fill="#0e1526" stroke="#ffffff1a"/>
+<g clip-path="url(#kcerts2)"><circle r="130" fill="url(#hl)"><animate attributeName="cx" values="-40;470;-40" dur="9s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="cy" values="26;111;26" dur="9s" begin="1.4s" repeatCount="indefinite"/></circle></g>
+<rect width="430" height="131" rx="18" fill="none" stroke="url(#bd)" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".15;.7;.15" dur="6s" begin="1.4s" repeatCount="indefinite"/></rect>
+<text x="22" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf7">GDG</text>
+<text x="22" y="69" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">SKASC Tech Sprint</text>
+<rect x="22" y="83" width="79" height="24" rx="12" fill="#00c9a7" fill-opacity=".14"/><text x="62" y="99" text-anchor="middle" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#00c9a7">Jan 2026</text>
+</g><g transform="translate(451,215)">
+<clipPath id="kcerts3"><rect width="430" height="131" rx="18"/></clipPath>
+<rect width="430" height="131" rx="18" fill="#0e1526" stroke="#ffffff1a"/>
+<g clip-path="url(#kcerts3)"><circle r="130" fill="url(#hl)"><animate attributeName="cx" values="-40;470;-40" dur="9s" begin="2.0999999999999996s" repeatCount="indefinite"/><animate attributeName="cy" values="26;111;26" dur="9s" begin="2.0999999999999996s" repeatCount="indefinite"/></circle></g>
+<rect width="430" height="131" rx="18" fill="none" stroke="url(#bd)" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".15;.7;.15" dur="6s" begin="2.0999999999999996s" repeatCount="indefinite"/></rect>
+<text x="22" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf7">Great Learning</text>
+<text x="22" y="69" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">WordPress with Docker</text>
+</g><g transform="translate(1,366)">
+<clipPath id="kcerts4"><rect width="430" height="131" rx="18"/></clipPath>
+<rect width="430" height="131" rx="18" fill="#0e1526" stroke="#ffffff1a"/>
+<g clip-path="url(#kcerts4)"><circle r="130" fill="url(#hl)"><animate attributeName="cx" values="-40;470;-40" dur="9s" begin="2.8s" repeatCount="indefinite"/><animate attributeName="cy" values="26;111;26" dur="9s" begin="2.8s" repeatCount="indefinite"/></circle></g>
+<rect width="430" height="131" rx="18" fill="none" stroke="url(#bd)" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".15;.7;.15" dur="6s" begin="2.8s" repeatCount="indefinite"/></rect>
+<text x="22" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf7">Cisco</text>
+<text x="22" y="69" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">Introduction to Cybersecurity</text>
+<rect x="22" y="83" width="79" height="24" rx="12" fill="#00c9a7" fill-opacity=".14"/><text x="62" y="99" text-anchor="middle" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#00c9a7">Oct 2024</text>
+</g><g transform="translate(451,366)">
+<clipPath id="kcerts5"><rect width="430" height="131" rx="18"/></clipPath>
+<rect width="430" height="131" rx="18" fill="#0e1526" stroke="#ffffff1a"/>
+<g clip-path="url(#kcerts5)"><circle r="130" fill="url(#hl)"><animate attributeName="cx" values="-40;470;-40" dur="9s" begin="3.5s" repeatCount="indefinite"/><animate attributeName="cy" values="26;111;26" dur="9s" begin="3.5s" repeatCount="indefinite"/></circle></g>
+<rect width="430" height="131" rx="18" fill="none" stroke="url(#bd)" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".15;.7;.15" dur="6s" begin="3.5s" repeatCount="indefinite"/></rect>
+<text x="22" y="40" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf7">HackerRank</text>
+<text x="22" y="69" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8a97b0">Python (Basic)</text>
+<rect x="22" y="83" width="79" height="24" rx="12" fill="#00c9a7" fill-opacity=".14"/><text x="62" y="99" text-anchor="middle" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#00c9a7">Oct 2024</text>
+</g></svg>
