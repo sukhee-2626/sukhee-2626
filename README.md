@@ -59,6 +59,47 @@
 
 <br/>
 
+## 🏅 Badges
+
+A visual catalog of GitHub achievement badges and profile highlights, based on [badgeMaster](https://github.com/fenrir2608/badgeMaster). **These are example designs only; this gallery does not claim that I have earned or received any badge shown here.** See the source repository for badge criteria, tiers, skin-tone variants, and asset attribution (MIT License).
+
+### Achievement badges
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Starstruck" width="52"/><br/><sub>Starstruck</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="52"/><br/><sub>Quickdraw</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" alt="Pair Extraordinaire" width="52"/><br/><sub>Pair Extraordinaire</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Pull-Shark/PNG/PullShark.png" alt="Pull Shark" width="52"/><br/><sub>Pull Shark</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" alt="Galaxy Brain" width="52"/><br/><sub>Galaxy Brain</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" width="52"/><br/><sub>YOLO</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" alt="Public Sponsor" width="52"/><br/><sub>Public Sponsor</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" alt="Heart on your sleeve" width="52"/><br/><sub>Heart on your sleeve</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" alt="Open Sourcerer" width="52"/><br/><sub>Open Sourcerer</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Mars-2020-Contributor/PNG/Mars2020ContributorBadge.png" alt="Mars 2020 Contributor" width="52"/><br/><sub>Mars 2020 Contributor</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" alt="Arctic Code Vault Contributor" width="52"/><br/><sub>Arctic Code Vault Contributor</sub></td>
+<td colspan="4"></td>
+</tr>
+</table>
+
+### Profile highlights
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Highlights/GitHub-Pro/SVG/GitHub-Pro_LightMode.svg" alt="GitHub Pro" height="44"/><br/><sub>GitHub Pro</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_LightMode.svg" alt="Developer Program Member" height="44"/><br/><sub>Developer Program Member</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_LightMode.svg" alt="GitHub Campus Expert" height="44"/><br/><sub>GitHub Campus Expert</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_LightMode.svg" alt="Security Bug Bounty Hunter" height="44"/><br/><sub>Security Bug Bounty Hunter</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_LightMode.svg" alt="Security Advisory Credit" height="44"/><br/><sub>Security Advisory Credit</sub></td>
+</tr>
+</table>
+
+<br/>
+
 <img src="assets/heads/calendar.svg" alt="Isometric Commit Calendar" height="48"/>
 <img src="metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="100%"/>
 
