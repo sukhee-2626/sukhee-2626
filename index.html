@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sukhee Sakthivel · Developer Portfolio</title>
+<style>
+:root{--bg:#070b14;--card:#0e1526cc;--tx:#e6edf7;--mut:#8a97b0;--a:#00c9a7;--b:#7c3aed;--line:#ffffff1a;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:dark}
+@media (prefers-color-scheme:light){:root:not([data-theme="dark"]){--bg:#eef2f9;--card:#ffffffcc;--tx:#0e1526;--mut:#52607a;--line:#0e152622;color-scheme:light}}
+:root[data-theme="dark"]{--bg:#070b14;--card:#0e1526cc;--tx:#e6edf7;--mut:#8a97b0;--line:#ffffff1a}
+html{scroll-behavior:smooth;scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;overflow-x:hidden}
+#bg{position:fixed;inset:0;width:100%;height:100%;z-index:0}
+#glow{position:fixed;width:420px;height:420px;border-radius:50%;pointer-events:none;z-index:1;left:0;top:0;
+background:radial-gradient(circle,#00c9a738,#7c3aed1f 45%,transparent 70%);transform:translate(-50%,-50%)}
+main{position:relative;z-index:2;max-width:1100px;margin:0 auto;padding:0 20px 80px}
+section{padding:70px 0 10px}
+h2{font-size:clamp(1.5rem,4vw,2.1rem);margin:0 0 26px;background:linear-gradient(90deg,var(--a),var(--b));-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;perspective:900px}
+.hero h1{font-size:clamp(2.4rem,9vw,5.6rem);line-height:1;margin:0;transform-style:preserve-3d;transition:transform .1s;text-shadow:0 0 40px #00c9a755}
+.hero h1 span{display:block;background:linear-gradient(90deg,var(--a),var(--b),var(--a));background-size:200%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:flow 6s linear infinite}
+@keyframes flow{to{background-position:200%}}
+.type{font:600 clamp(1rem,2.6vw,1.4rem) "Fira Code",ui-monospace,monospace;color:var(--a);margin:18px 0 8px;min-height:1.6em}
+.type::after{content:"▌";animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.sub{color:var(--mut);max-width:620px;line-height:1.6}
+.links{display:flex;flex-wrap:wrap;gap:12px;margin-top:26px}
+.btn{padding:11px 20px;border-radius:999px;border:1px solid var(--line);color:var(--tx);text-decoration:none;font-weight:600;background:var(--card);backdrop-filter:blur(10px);transition:.25s}
+.btn:hover{background:linear-gradient(90deg,var(--a),var(--b));color:#fff;transform:translateY(-3px);box-shadow:0 10px 30px #7c3aed55}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:20px;perspective:1100px}
+.card{position:relative;padding:22px;border-radius:18px;background:var(--card);border:1px solid var(--line);backdrop-filter:blur(12px);
+transform-style:preserve-3d;transition:transform .15s ease-out,box-shadow .3s;text-decoration:none;color:inherit;display:block;overflow:hidden}
+.card::before{content:"";position:absolute;inset:0;background:radial-gradient(260px circle at var(--mx,50%) var(--my,50%),#00c9a72e,transparent 60%);opacity:0;transition:.3s}
+.card:hover::before{opacity:1}
+.card:hover{box-shadow:0 25px 50px #0008,0 0 0 1px #00c9a766}
+.card>*{transform:translateZ(30px)}
+.card h3{margin:0 0 8px;font-size:1.1rem}
+.card p{margin:0;color:var(--mut);font-size:.9rem;line-height:1.5}
+.tag{display:inline-block;margin-top:12px;font-size:.72rem;padding:3px 10px;border-radius:99px;background:#00c9a722;color:var(--a);font-weight:600}
+.num{position:absolute;right:14px;top:6px;font-size:2.6rem;font-weight:800;color:#ffffff0d}
+.chips{display:flex;flex-wrap:wrap;gap:10px}
+.chip{padding:8px 16px;border-radius:12px;background:var(--card);border:1px solid var(--line);font-size:.88rem;font-weight:600;animation:float 4s ease-in-out infinite;transition:.2s}
+.chip:hover{border-color:var(--a);color:var(--a);transform:scale(1.1) rotate(-2deg)}
+@keyframes float{50%{transform:translateY(-6px)}}
+.reveal{opacity:0;transform:translateY(40px) rotateX(12deg);transition:opacity .8s,transform .8s}
+.reveal.in{opacity:1;transform:none}
+footer{text-align:center;color:var(--mut);padding:50px 0 20px;font-size:.85rem;position:relative;z-index:2}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<canvas id="bg"></canvas><div id="glow"></div>
+<main>
+<header class="hero">
+  <h1 id="name"><span>Sukhee</span><span>Sakthivel G M</span></h1>
+  <div class="type" id="type"></div>
+  <p class="sub"><b>Orchestration Engineer @ Plot XYz.Ai | Building AI-Powered Products</b></p>
+  <div class="links">
+    <a class="btn" href="https://github.com/sukhee-2626" target="_blank" rel="noopener">GitHub</a>
+    <a class="btn" href="https://www.linkedin.com/in/sukheesakthivel/" target="_blank" rel="noopener">LinkedIn</a>
+    <a class="btn" href="https://www.kaggle.com/sukheesakthivel" target="_blank" rel="noopener">Kaggle</a>
+    <a class="btn" href="mailto:sukheesakthivel07@gmail.com">sukheesakthivel07@gmail.com</a>
+  </div>
+</header>
+
+<section class="reveal"><h2>Top 10 Projects</h2><div class="grid" id="proj"></div></section>
+
+<section class="reveal"><h2>Hackathons &amp; Achievements</h2><div class="grid" id="hack"></div></section>
+
+<section class="reveal"><h2>Experience</h2><div class="grid" id="exp"></div></section>
+
+<section class="reveal"><h2>Education</h2><div class="grid" id="edu"></div></section>
+
+<section class="reveal"><h2>Technical Skills</h2><div class="grid" id="stack"></div></section>
+
+<section class="reveal"><h2>Certifications</h2><div class="grid" id="cert"></div></section>
+</main>
+<footer>Keep building, keep innovating 🚀 · Move your mouse, it&rsquo;s all interactive</footer>
+
+<script>
+const $=s=>document.querySelector(s);
+const P=[
+["plot-docs","plot-docs","Local-first AI office suite for Docs, Sheets, Slides, PDF, Markdown and HTML on Windows, macOS and Linux.","Electron · TypeScript"],
+["Thinai","Thinai","Privacy-focused Android app running small language models on-device with a local API.","Dart · On-device AI"],
+["MediNexus-AI-Updated","MediNexus AI","Healthcare platform: patient records, appointments, consent management, AI insights and patient portals.","React · TypeScript · Supabase · Gemini"],
+["carelens-hospital-agent","CareLens","Hospital AI assistant for document extraction, health timelines, search, FAQ retrieval, appointments and audit trails.","React · TypeScript · Azure AI"],
+["CodeGuardAI","CodeGuard","Browser-based GitHub security scanner with vulnerability analysis, security scoring, auto-fixes and Markdown reports.","React · GitHub REST API"],
+["CAMPUS-NAV","Campus Navigator","Interactive college map and field-survey app with GPS detection, searchable destinations and saved pins.","React · Express · MySQL/TiDB"],
+["SSOFFICE","SSOFFICE","Full-stack office suite: docs, sheets, slides, forms, mail, calendar, drive, tasks, automation and AI.","React · TypeScript · Supabase"],
+["VastuAi","VastuAI","Floor-plan analyzer combining Gemini Vision with a custom rule engine, scoring and improvement tips.","React · Flask · Gemini Vision"],
+["Place1-Ai","Place1-Ai","AI career copilot with polished frontend, backend API, authentication and database integration.","Next.js · Tailwind · Supabase"],
+["prd-craftsman-10","PRD Craftsman","AI product-requirements prompt generator with structured templates.","TypeScript · Generative AI"]];
+$("#proj").innerHTML=P.map((p,i)=>`<a class="card" target="_blank" rel="noopener" href="https://github.com/sukhee-2626/${p[0]}"><span class="num">${String(i+1).padStart(2,"0")}</span><h3>${p[1]}</h3><p>${p[2]}</p><span class="tag">${p[3]}</span></a>`).join("");
+const H=[
+["🥉 Featastiv AI","3rd Prize, Ideathon ThinkTank 2026. AI healthcare scheduling and live queue management.","https://lnkd.in/g5aypTxY"],
+["⛓️ MediChain Spark","GDG TechSprint Hackathon 2025. Blockchain medical records with immutable transparency.","https://lnkd.in/gvartgug"],
+["🎓 Certificate Portal","Official GDG TechSprint portal with Credential ID and QR verification, instant PDFs.","https://lnkd.in/gqbSV8Ay"],
+["📝 AI PRD Generator","Turns raw ideas into structured 11-section PRDs in seconds. Built with Lovable.","https://lnkd.in/gT4379-b"]];
+$("#hack").innerHTML=H.map(h=>`<a class="card" target="_blank" rel="noopener" href="${h[2]}"><h3>${h[0]}</h3><p>${h[1]}</p><span class="tag">View →</span></a>`).join("");
+const card=(h,p,t)=>`<div class="card"><h3>${h}</h3><p>${p}</p>${t?`<span class="tag">${t}</span>`:""}</div>`;
+$("#exp").innerHTML=[
+["Orchestration Engineer","Plot XYz.Ai. Building AI-powered products.","Current"],
+["Data Analyst Intern","Oasis Infobyte · Virtual. Data-focused internship with exposure to IT infrastructure and support services.","Aug 2026 – Present"],
+["Campus Ambassador, E-Cell","IIT Bombay. Supported campus outreach and entrepreneurship initiatives.","Jun 2026 – Present"],
+["Media & Creative Team Head","GDG on Campus. Led media and creative activities, event promotion and technical community engagement.","Jun 2025 – Present"],
+["Language Intern","GLA University, Mathura. Completed an on-site language internship.","Jun 2026"],
+["Desktop Support Technician","Smart Stream Technologies · Part-time. Technical support with exposure to desktop support and data engineering.","Apr – May 2026"]
+].map(e=>card(...e)).join("");
+$("#edu").innerHTML=[
+["B.Sc. Computer Science","Sri Krishna Arts and Science College (SKASC). 1st year, pursuing.","2025 – 2028"],
+["12th · Commerce + Computer Science","Higher secondary education.","71.6%"],
+["10th","Secondary education.","62%"]
+].map(e=>card(...e)).join("");
+const S={"Programming":"Python,C++,JavaScript,TypeScript,DSA","AI & Data":"Generative AI,Prompt Engineering,Google Gemini,Azure AI,Data Engineering","Web":"React,Vite,Tailwind CSS,WordPress,Docker","Cloud":"Google Cloud,Supabase,PostgreSQL,MySQL/TiDB,REST APIs","Security":"Cybersecurity,Cisco Networking,Technical Support","Tools":"GitHub,VS Code,Google Workspace,Canva"};
+$("#stack").innerHTML=Object.entries(S).map(([k,v])=>`<div class="card"><h3>${k}</h3><div class="chips" style="margin-top:12px">${v.split(",").map((s,i)=>`<span class="chip" style="animation-delay:${i*.2}s">${s}</span>`).join("")}</div></div>`).join("");
+$("#cert").innerHTML=[
+["Anthropic","AI Fluency Framework & Foundations","Jun 2026"],
+["Google","Gen AI Apps with Gemini & Streamlit · Google Cloud Network, Data & Compute · Vertex AI Prompt Design · Generative AI · Speech & Language APIs","Oct 2025"],
+["GDG","SKASC Tech Sprint","Jan 2026"],
+["Great Learning","WordPress with Docker",""],
+["Cisco","Introduction to Cybersecurity","Oct 2024"],
+["HackerRank","Python (Basic)","Oct 2024"]
+].map(e=>card(...e)).join("");
+
+// typing
+const L=["Orchestration Engineer @ Plot XYz.Ai","Building AI-Powered Products","Data Analyst Intern @ Oasis Infobyte","Campus Ambassador, E-Cell IIT Bombay","Media & Creative Head, GDG on Campus","Generative AI · Cloud · Cybersecurity"];
+let li=0,ci=0,del=false;const T=$("#type");
+(function tick(){const w=L[li];ci+=del?-1:1;T.textContent=w.slice(0,ci);let d=del?35:70;
+if(!del&&ci===w.length){del=true;d=1300}else if(del&&ci===0){del=false;li=(li+1)%L.length;d=300}setTimeout(tick,d)})();
+
+// reveal
+const io=new IntersectionObserver(e=>e.forEach(x=>x.isIntersecting&&x.target.classList.add("in")),{threshold:.1});
+document.querySelectorAll(".reveal").forEach(e=>io.observe(e));
+
+// mouse state
+const M={x:innerWidth/2,y:innerHeight/2,nx:0,ny:0};
+addEventListener("pointermove",e=>{M.x=e.clientX;M.y=e.clientY;M.nx=e.clientX/innerWidth-.5;M.ny=e.clientY/innerHeight-.5;
+const g=$("#glow");g.style.left=e.clientX+"px";g.style.top=e.clientY+"px";
+$("#name").style.transform=`rotateY(${M.nx*18}deg) rotateX(${-M.ny*14}deg)`});
+
+// 3D card tilt
+document.querySelectorAll(".card").forEach(c=>{
+c.addEventListener("pointermove",e=>{const r=c.getBoundingClientRect(),x=(e.clientX-r.left)/r.width,y=(e.clientY-r.top)/r.height;
+c.style.setProperty("--mx",x*100+"%");c.style.setProperty("--my",y*100+"%");
+c.style.transform=`rotateY(${(x-.5)*18}deg) rotateX(${(.5-y)*18}deg) translateZ(14px)`});
+c.addEventListener("pointerleave",()=>c.style.transform="")});
+
+// 3D point-sphere canvas
+const cv=$("#bg"),cx=cv.getContext("2d");let W,Hh,DPR=Math.min(devicePixelRatio||1,2);
+function rs(){W=innerWidth;Hh=innerHeight;cv.width=W*DPR;cv.height=Hh*DPR;cx.setTransform(DPR,0,0,DPR,0,0)}rs();addEventListener("resize",rs);
+const N=matchMedia("(max-width:700px)").matches?220:420,pts=[];
+for(let i=0;i<N;i++){const y=1-2*(i+.5)/N,r=Math.sqrt(1-y*y),t=i*2.399963;pts.push([Math.cos(t)*r,y,Math.sin(t)*r])}
+const dust=Array.from({length:70},()=>[Math.random()*2-1,Math.random()*2-1,Math.random()*2-1]);
+let ax=0,ay=0,vx=0,vy=0;
+function draw(){
+cx.clearRect(0,0,W,Hh);
+vy+=(M.nx*.04-vy)*.05;vx+=(M.ny*.04-vx)*.05;ay+=.004+vy;ax+=vx*.5;
+const R=Math.min(W,Hh)*.34*(innerWidth<700?1.1:1),cxp=W*(innerWidth<700?.5:.72),cyp=Hh*.5;
+const cs=Math.cos(ay),sn=Math.sin(ay),cX=Math.cos(ax),sX=Math.sin(ax);
+const pr=[];
+for(const p of pts){let x=p[0]*cs-p[2]*sn,z=p[0]*sn+p[2]*cs,y=p[1]*cX-z*sX;z=p[1]*sX+z*cX;
+const s=1/(1.9-z*.6);pr.push([cxp+x*R*s*1.6,cyp+y*R*s*1.6,z,s])}
+cx.lineWidth=.6;
+for(let i=0;i<pr.length;i++){const a=pr[i];
+for(let j=i+1;j<pr.length;j+=3){const b=pr[j],dx=a[0]-b[0],dy=a[1]-b[1],d=dx*dx+dy*dy;
+if(d<1500&&a[2]>-.2){cx.strokeStyle=`rgba(0,201,167,${(1-d/1500)*.35})`;cx.beginPath();cx.moveTo(a[0],a[1]);cx.lineTo(b[0],b[1]);cx.stroke()}}}
+for(const p of pr){const dx=p[0]-M.x,dy=p[1]-M.y,d=Math.hypot(dx,dy),near=Math.max(0,1-d/160);
+const al=(p[2]+1.2)/2.4;cx.fillStyle=near>0?`rgba(255,255,255,${.6+near*.4})`:(p[2]>0?`rgba(0,201,167,${al})`:`rgba(124,58,237,${al})`);
+cx.beginPath();cx.arc(p[0]-dx*near*.08,p[1]-dy*near*.08,(1.1+p[2]*.8+near*2.5)*p[3]*1.4,0,6.283);cx.fill()}
+for(const d of dust){d[1]-=.0007;if(d[1]<-1)d[1]=1;
+const px=W/2+(d[0]*W/2)+M.nx*-40*(d[2]+1.5),py=Hh/2+d[1]*Hh/2+M.ny*-40*(d[2]+1.5);
+cx.fillStyle="rgba(180,200,255,.35)";cx.fillRect(px,py,1.4+d[2],1.4+d[2])}
+requestAnimationFrame(draw)}
+draw();
+</script>
+</body>
+</html>

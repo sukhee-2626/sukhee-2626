@@ -1,87 +1,110 @@
-![Sukhee Sakthivel G M - Orchestration Engineer @ Plot XYz.Ai](assets/hero.svg) [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=760&height=45&lines=Orchestration+Engineer+%40+Plot+XYz.Ai;Building+AI-Powered+Products;Data+Analyst+Intern+%40+Oasis+Infobyte;Campus+Ambassador%2C+E-Cell+IIT+Bombay;Media+%26+Creative+Head%2C+GDG+on+Campus;Generative+AI+%C2%B7+Cloud+%C2%B7+Cybersecurity)](https://github.com/sukhee-2626)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukhee-2626) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukheesakthivel/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sukheesakthivel) [![Email](https://img.shields.io/badge/sukheesakthivel07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukheesakthivel07@gmail.com)
+<div align="center">
 
-  
+[![Sukhee Sakthivel G M · 3D Portfolio](assets/hero-3d.gif)](https://sukhee-2626.github.io/portfolio/)
+
+<a href="https://sukhee-2626.github.io/portfolio/"><img src="assets/btn-live.svg" alt="Open Live 3D Website"/></a>
+
+<a href="https://github.com/sukhee-2626"><img src="assets/btn-github.svg" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sukheesakthivel/"><img src="assets/btn-linkedin.svg" alt="LinkedIn"/></a>
+<a href="https://www.kaggle.com/sukheesakthivel"><img src="assets/btn-kaggle.svg" alt="Kaggle"/></a>
+<a href="mailto:sukheesakthivel07@gmail.com"><img src="assets/btn-email.svg" alt="Email"/></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=760&height=45&lines=Orchestration+Engineer+%40+Plot+XYz.Ai;Building+AI-Powered+Products;Data+Analyst+Intern+%40+Oasis+Infobyte;Campus+Ambassador%2C+E-Cell+IIT+Bombay;Media+%26+Creative+Head%2C+GDG+on+Campus;Generative+AI+%C2%B7+Cloud+%C2%B7+Cybersecurity" alt="Typing"/>
+
+![](assets/divider.svg)
+
 ![Top 10 Projects](assets/heads/projects.svg)
 
-[![plot-docs](assets/cards/p01.svg)](https://github.com/sukhee-2626/plot-docs)
+[![Top 10 Projects, 3D cards](assets/projects-3d.gif)](https://sukhee-2626.github.io/portfolio/)
 
-[![Thinai](assets/cards/p02.svg)](https://github.com/sukhee-2626/Thinai)
+</div>
 
-[![MediNexus AI](assets/cards/p03.svg)](https://github.com/sukhee-2626/MediNexus-AI-Updated)
+| # | Project | Stack |
+|---|---|---|
+| 01 | [plot-docs](https://github.com/sukhee-2626/plot-docs) | Electron · TypeScript |
+| 02 | [Thinai](https://github.com/sukhee-2626/Thinai) | Dart · On-device AI |
+| 03 | [MediNexus AI](https://github.com/sukhee-2626/MediNexus-AI-Updated) | React · TypeScript · Supabase · Gemini |
+| 04 | [CareLens](https://github.com/sukhee-2626/carelens-hospital-agent) | React · TypeScript · Azure AI |
+| 05 | [CodeGuard](https://github.com/sukhee-2626/CodeGuardAI) | React · GitHub REST API |
+| 06 | [Campus Navigator](https://github.com/sukhee-2626/CAMPUS-NAV) | React · Express · MySQL/TiDB |
+| 07 | [SSOFFICE](https://github.com/sukhee-2626/SSOFFICE) | React · TypeScript · Supabase |
+| 08 | [VastuAI](https://github.com/sukhee-2626/VastuAi) | React · Flask · Gemini Vision |
+| 09 | [Place1-Ai](https://github.com/sukhee-2626/Place1-Ai) | Next.js · Tailwind · Supabase |
+| 10 | [PRD Craftsman](https://github.com/sukhee-2626/prd-craftsman-10) | TypeScript · Generative AI |
 
-[![CareLens](assets/cards/p04.svg)](https://github.com/sukhee-2626/carelens-hospital-agent)
+<div align="center">
 
-[![CodeGuard](assets/cards/p05.svg)](https://github.com/sukhee-2626/CodeGuardAI)
+![](assets/divider.svg)
 
-[![Campus Navigator](assets/cards/p06.svg)](https://github.com/sukhee-2626/CAMPUS-NAV)
+![Experience, Skills & More](assets/heads/more.svg)
 
-[![SSOFFICE](assets/cards/p07.svg)](https://github.com/sukhee-2626/SSOFFICE)
+[![Hackathons, Experience, Education, Skills, Certifications](assets/sections-3d.gif)](https://sukhee-2626.github.io/portfolio/)
 
-[![VastuAI](assets/cards/p08.svg)](https://github.com/sukhee-2626/VastuAi)
+</div>
 
-[![Place1-Ai](assets/cards/p09.svg)](https://github.com/sukhee-2626/Place1-Ai)
+<details>
+<summary><b>🏆 Hackathons & Achievements</b></summary>
 
-[![PRD Craftsman](assets/cards/p10.svg)](https://github.com/sukhee-2626/prd-craftsman-10)
+- 🥉 [**Featastiv AI**](https://lnkd.in/g5aypTxY): 3rd Prize, Ideathon ThinkTank 2026. AI healthcare scheduling and live queue management.
+- ⛓️ [**MediChain Spark**](https://lnkd.in/gvartgug): GDG TechSprint Hackathon 2025. Blockchain medical records with immutable transparency.
+- 🎓 [**Certificate Portal**](https://lnkd.in/gqbSV8Ay): Official GDG TechSprint portal with Credential ID and QR verification, instant PDFs.
+- 📝 [**AI PRD Generator**](https://lnkd.in/gT4379-b): Turns raw ideas into structured 11-section PRDs in seconds. Built with Lovable.
 
-![Hackathons & Achievements](assets/heads/hackathons.svg)
+</details>
 
-[![🥉 Featastiv AI](assets/cards/h1.svg)](https://lnkd.in/g5aypTxY)
+<details>
+<summary><b>💼 Experience</b></summary>
 
-[![⛓️ MediChain Spark](assets/cards/h2.svg)](https://lnkd.in/gvartgug)
+| Role | Details | Period |
+|---|---|---|
+| **Orchestration Engineer** | Plot XYz.Ai. Building AI-powered products. | Current |
+| **Data Analyst Intern** | Oasis Infobyte · Virtual | Aug 2026 – Present |
+| **Campus Ambassador, E-Cell** | IIT Bombay | Jun 2026 – Present |
+| **Media & Creative Team Head** | GDG on Campus | Jun 2025 – Present |
+| **Language Intern** | GLA University, Mathura | Jun 2026 |
+| **Desktop Support Technician** | Smart Stream Technologies · Part-time | Apr – May 2026 |
 
-[![🎓 Certificate Portal](assets/cards/h3.svg)](https://lnkd.in/gqbSV8Ay)
+</details>
 
-[![📝 AI PRD Generator](assets/cards/h4.svg)](https://lnkd.in/gT4379-b)
+<details>
+<summary><b>🎓 Education</b></summary>
 
-![Experience](assets/heads/experience.svg)
+- **B.Sc. Computer Science**, Sri Krishna Arts and Science College (SKASC), 1st year (2025 – 2028)
+- **12th** Commerce + Computer Science: 71.6%
+- **10th**: 62%
 
-![Orchestration Engineer](assets/cards/x1.svg)
+</details>
 
-![Data Analyst Intern](assets/cards/x2.svg)
+<details>
+<summary><b>🛠️ Technical Skills</b></summary>
 
-![Campus Ambassador, E-Cell](assets/cards/x3.svg)
+- **Programming:** Python, C++, JavaScript, TypeScript, DSA
+- **AI & Data:** Generative AI, Prompt Engineering, Google Gemini, Azure AI, Data Engineering
+- **Web:** React, Vite, Tailwind CSS, WordPress, Docker
+- **Cloud:** Google Cloud, Supabase, PostgreSQL, MySQL/TiDB, REST APIs
+- **Security:** Cybersecurity, Cisco Networking, Technical Support
+- **Tools:** GitHub, VS Code, Google Workspace, Canva
 
-![Media & Creative Team Head](assets/cards/x4.svg)
+</details>
 
-![Language Intern](assets/cards/x5.svg)
+<details>
+<summary><b>🏅 Certifications</b></summary>
 
-![Desktop Support Technician](assets/cards/x6.svg)
+- **Anthropic:** AI Fluency Framework & Foundations (Jun 2026)
+- **Google (Oct 2025):** Gen AI Apps with Gemini & Streamlit · Google Cloud Network, Data & Compute · Vertex AI Prompt Design · Generative AI · Speech & Language APIs
+- **GDG:** SKASC Tech Sprint (Jan 2026)
+- **Great Learning:** WordPress with Docker
+- **Cisco:** Introduction to Cybersecurity (Oct 2024)
+- **HackerRank:** Python (Basic) (Oct 2024)
 
-![Education](assets/heads/education.svg)
+</details>
 
-![B.Sc. Computer Science](assets/cards/e1.svg)
+<div align="center">
 
-![12th · Commerce + Computer Science](assets/cards/e2.svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Click+any+image+to+open+the+live+3D+website+%F0%9F%9A%80;Keep+building%2C+keep+innovating." alt="Footer"/>
 
-![10th](assets/cards/e3.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&animation=twinkling" width="100%" alt=""/>
 
-![Technical Skills](assets/heads/skills.svg)
-
-![Programming](assets/cards/s1.svg)
-
-![AI & Data](assets/cards/s2.svg)
-
-![Web](assets/cards/s3.svg)
-
-![Cloud](assets/cards/s4.svg)
-
-![Security](assets/cards/s5.svg)
-
-![Tools](assets/cards/s6.svg)
-
-![Certifications](assets/heads/certs.svg)
-
-![Anthropic](assets/cards/c1.svg)
-
-![Google](assets/cards/c2.svg)
-
-![GDG](assets/cards/c3.svg)
-
-![Great Learning](assets/cards/c4.svg)
-
-![Cisco](assets/cards/c5.svg)
-
-![HackerRank](assets/cards/c6.svg)
-
-![Footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Keep+building%2C+keep+innovating+%F0%9F%9A%80;Ship+it.+Learn+it.+Repeat.) ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&animation=twinkling)
+</div>
