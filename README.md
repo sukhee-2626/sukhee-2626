@@ -1,161 +1,135 @@
-<p align="center">
-  <img src="profile_banner.png" alt="Sukhee Sakthivel Banner" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/sukhee-2626">
-    <img src="https://img.shields.io/badge/Verified%20Developer-sukhee--2626-00c9a7?style=flat-square&logo=github&logoColor=white" alt="Verified Profile">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sukhee-2626&color=00c9a7&style=flat-square" alt="Profile Views">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=250&section=header&text=Sukhee%20Sakthivel%20G%20M&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Orchestration%20Engineer%20%40%20Plot%20XYz.Ai&descSize=20&descAlignY=58" width="100%" alt="Header"/>
 
-<p align="center">
-  <b>Google Developer Groups (GDG) Media Team | Computer Science Student | RPA Enthusiast | Exploring Generative AI, Cloud Computing, and Automation | Interested in Vibe Coding and UI/UX Design</b>
-</p>
+<a href="https://github.com/sukhee-2626">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00C9A7&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80+Orchestration+Engineer+%40+Plot+XYz.Ai;%F0%9F%A4%96+Building+AI-Powered+Products;%F0%9F%93%8A+Data+Analyst+Intern+%40+Oasis+Infobyte;%F0%9F%8E%A8+Media+%26+Creative+Head+%40+GDG+on+Campus;%E2%98%81%EF%B8%8F+Generative+AI+%E2%80%A2+Cloud+%E2%80%A2+Cybersecurity" alt="Typing SVG"/>
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sukheesakthivel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.kaggle.com/sukheesakthivel" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="mailto:sukheesakthivel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Exploring%20Generative%20AI%20%26%20Automation-00c9a7?style=flat-square&logo=openai&logoColor=white" alt="Current Status">
-</p>
+<img src="https://komarev.com/ghpvc/?username=sukhee-2626&color=00c9a7&style=for-the-badge&label=PROFILE+VIEWS" alt="Views"/>
+<img src="https://img.shields.io/github/followers/sukhee-2626?style=for-the-badge&logo=github&color=7c3aed" alt="Followers"/>
 
----
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sukheesakthivel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.kaggle.com/sukheesakthivel"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="mailto:sukheesakthivel07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 👨‍💻 About Me
 
-* 🎓 **Computer Science Student** at **Sri Krishna Arts and Science College (SKASC)** (2025 - 2028).
-* 🎨 **Media & Creative Team Head** at **Google Developer Student Clubs (GDG on Campus SKASC)**.
-* 🤖 **RPA & Automation Enthusiast** exploring Generative AI, Cloud Computing, and Workflow Automation.
-* 💻 Passionate about **Vibe Coding**, UI/UX design, and rapid prototyping.
-* 🌐 Scored **95%** in the **IIT Bombay Spoken Tutorial Java Training Program**.
-* ☁️ Certified in Google Cloud: **Set Up a Google Cloud Network** & **Level 3: Generative AI**.
+```yaml
+name:      Sukhee Sakthivel G M
+role:      Orchestration Engineer @ Plot XYz.Ai | Building AI-Powered Products
+studying:  B.Sc. Computer Science, Sri Krishna Arts and Science College (2025 - 2028)
+community: Media & Creative Team Head, GDG on Campus
+focus:     [Generative AI, Cloud, Cybersecurity, Data Analysis, Web]
+```
 
----
+## 💼 Experience
 
-## 🏆 Hackathons & Key Projects
+| Role | Organization | Period |
+|---|---|---|
+| Orchestration Engineer | Plot XYz.Ai | Current |
+| Data Analyst Intern | Oasis Infobyte (Virtual) | Aug 2026 – Present |
+| Campus Ambassador, E-Cell | IIT Bombay | Jun 2026 – Present |
+| Media & Creative Team Head | GDG on Campus | Jun 2025 – Present |
+| Language Intern | GLA University, Mathura | Jun 2026 |
+| Desktop Support Technician | Smart Stream Technologies (Part-time) | Apr – May 2026 |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🚀 Top 10 Projects
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥉 Featastiv AI</h3>
-      <p><b>Won 3rd Prize at Ideathon – ThinkTank 2026</b></p>
-      <p>An AI-powered healthcare scheduling and queue management system designed to reduce hospital wait times and elevate patient care.</p>
-      <ul>
-        <li>Smart scheduling & live queue tracking</li>
-        <li>Built in collaboration with Mithra R and Kanishkar M</li>
-      </ul>
-      <a href="https://lnkd.in/g5aypTxY" target="_blank"><b>👉 View Prototype</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⛓️ MediChain Spark</h3>
-      <p><b>GDG TechSprint Hackathon 2025</b></p>
-      <p>A blockchain-based medical record ecosystem that safely maintains and shares patient health histories across multiple hospitals.</p>
-      <ul>
-        <li>Guarantees patient record privacy & security</li>
-        <li>Implements immutable ledger transparency</li>
-      </ul>
-      <a href="https://lnkd.in/gvartgug" target="_blank"><b>👉 View Project</b></a> | <a href="https://lnkd.in/gXX_GKmW" target="_blank"><b>Certificate</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 GDG TechSprint Certificate Portal</h3>
-      <p>Developed the official hackathon certificate portal from scratch, enabling participants to instantly verify, download, and share their credentials on LinkedIn.</p>
-      <ul>
-        <li>Secure verification via Credential ID & QR codes</li>
-        <li>Generates professional PDFs instantly</li>
-      </ul>
-      <a href="https://lnkd.in/gqbSV8Ay" target="_blank"><b>👉 View Portal</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 AI PRD Generator</h3>
-      <p>A smart tool that leverages generative AI to turn raw product concepts into structured 11-section Product Requirement Documents (PRDs) in seconds.</p>
-      <ul>
-        <li>Eliminates planning friction for founders & PMs</li>
-        <li>Built and launched rapidly using Lovable</li>
-      </ul>
-      <a href="https://lnkd.in/gT4379-b" target="_blank"><b>👉 Try PRD Generator</b></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/sukhee-2626/plot-docs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhee-2626&repo=plot-docs&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="plot-docs"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/sukhee-2626/Thinai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhee-2626&repo=Thinai&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="Thinai"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/sukhee-2626/MediNexus-AI-Updated"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhee-2626&repo=MediNexus-AI-Updated&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="MediNexus"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/sukhee-2626/carelens-hospital-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhee-2626&repo=carelens-hospital-agent&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="CareLens"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/sukhee-2626/CodeGuardAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhee-2626&repo=CodeGuardAI&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="CodeGuard"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/sukhee-2626/CAMPUS-NAV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhee-2626&repo=CAMPUS-NAV&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="Campus Navigator"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/sukhee-2626/SSOFFICE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhee-2626&repo=SSOFFICE&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="SSOFFICE"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/sukhee-2626/VastuAi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhee-2626&repo=VastuAi&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="VastuAI"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/sukhee-2626/Place1-Ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhee-2626&repo=Place1-Ai&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="Place1-Ai"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/sukhee-2626/prd-craftsman-10"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhee-2626&repo=prd-craftsman-10&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="PRD Craftsman"/></a></td>
+</tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🛠️ Tech Stack & Skills
+## 🏆 Hackathons
 
-<table>
-  <tr>
-    <td align="center"><b>Programming Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Cloud & Automation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP">
-      <img src="https://img.shields.io/badge/UiPath_/_RPA-FA4616?style=flat-square&logo=uipath&logoColor=white" alt="UiPath">
-      <img src="https://img.shields.io/badge/Automation-2C3E50?style=flat-square&logo=hubspot&logoColor=white" alt="Automation">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Design & UI/UX</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
-      <img src="https://img.shields.io/badge/Creative_Design-8E44AD?style=flat-square&logo=adobe&logoColor=white" alt="Creative Design">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frameworks & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Lovable-FF4F5B?style=flat-square&logo=lovable&logoColor=white" alt="Lovable">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    </td>
-  </tr>
-</table>
+| Project | Highlight | Link |
+|---|---|---|
+| 🥉 **Featastiv AI** | 3rd Prize, Ideathon ThinkTank 2026. AI healthcare scheduling and live queue tracking. | [Prototype](https://lnkd.in/g5aypTxY) |
+| ⛓️ **MediChain Spark** | GDG TechSprint 2025. Blockchain medical records across hospitals. | [Project](https://lnkd.in/gvartgug) · [Certificate](https://lnkd.in/gXX_GKmW) |
+| 🎓 **Certificate Portal** | Official GDG TechSprint portal with Credential ID and QR verification. | [Portal](https://lnkd.in/gqbSV8Ay) |
+| 📝 **AI PRD Generator** | Turns raw ideas into 11-section PRDs in seconds. | [Try it](https://lnkd.in/gT4379-b) |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 📊 GitHub Analytics & Showcase
+## 🛠️ Tech Stack
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=sukhee-2626&show_icons=true&theme=tokyonight&hide_border=true" alt="Sukhee's GitHub Stats" width="100%">
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhee-2626&layout=compact&theme=tokyonight&hide_border=true" alt="Sukhee's Top Languages" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="middle" style="padding-top: 20px;">
-      <p><b>✨ Futuristic Developer Badge & Identity Card ✨</b></p>
-      <img src="profile_card.png" alt="Sukhee's Developer Card" width="340px" style="border-radius: 16px; box-shadow: 0 8px 24px rgba(0, 201, 167, 0.25);">
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,vite,tailwind,nextjs,nodejs,flask,docker,wordpress,gcp,supabase,postgres,mysql,git,github,vscode,figma&theme=dark" alt="Stack"/>
 
-<p align="center">
-  <sub>Generated with ❤️ using modern profile design systems. Keep building, keep innovating! 🚀</sub>
-</p>
+<br/>
+
+`Generative AI` · `Prompt Engineering` · `Google Gemini` · `Azure AI` · `Data Engineering` · `REST APIs` · `Cybersecurity` · `Cisco Networking` · `DSA`
+
+</div>
+
+## 🎓 Certifications
+
+- **Anthropic:** AI Fluency Framework & Foundations (Jun 2026)
+- **Google (Oct 2025):** Gen AI Apps with Gemini & Streamlit · Google Cloud Network, Data & Compute · Vertex AI Prompt Design · Generative AI · Speech & Language APIs
+- **GDG:** SKASC Tech Sprint (Jan 2026)
+- **Great Learning:** WordPress with Docker
+- **Cisco:** Introduction to Cybersecurity (Oct 2024)
+- **HackerRank:** Python (Basic) (Oct 2024)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sukhee-2626&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" height="180" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhee-2626&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" alt="Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sukhee-2626&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sukhee-2626&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="Activity"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sukhee-2626/sukhee-2626/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sukhee-2626/sukhee-2626/output/github-snake.svg"/>
+  <img alt="Snake" src="https://raw.githubusercontent.com/sukhee-2626/sukhee-2626/output/github-snake.svg"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+
+</div>
